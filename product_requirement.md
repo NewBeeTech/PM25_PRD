@@ -8,6 +8,6 @@
 | 需求编号| NO.1|
 | 需求名称| 城市设置 |
 | 原型图 | <img src="./1.jpg" height=300 />  |
-| 界面元素| <table> <tr><td>hello</td></tr></table> |
+| 界面元素| <table> <tr><td>hello</td><td>hello</td></tr></table> |
 
 
