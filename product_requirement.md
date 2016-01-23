@@ -19,6 +19,6 @@
 | 需求编号| NO.2|
 | 需求名称| 主界面 |
 | 原型图 | <img src="Page3@2x.png" height=300 />  |
-| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.2_1</td><td>城市设置导航按钮</td><td>城市设置和主界面切换开关 </td></tr><tr><td>NO.2_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr></table> |
+| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.2_1</td><td>城市设置导航按钮</td><td>城市设置和主界面切换开关 </td></tr><tr><td>NO.2_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr><tr><td>NO.2_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr><tr><td>NO.2_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr></table> |
 
 <br />
