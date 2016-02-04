@@ -29,7 +29,10 @@
 ##5. 多平台运用集群构架总结
 
 ##6. 如何贡献
+[github](https://github.com/huliyou/foggy_app)
+    
     我们欢迎任何形式的贡献，有任何建议或意见您可以进行 Pull Request，或者给我们提问。
+
     
 
 
