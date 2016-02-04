@@ -40,6 +40,6 @@
 | 需求编号| NO.4|
 | 需求名称| App设置界面 |
 | 原型图 | 暂无  |
-| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.4_1</td><td>封面 </td><td>点击事件：更换封面/取消</td></tr><tr><td>NO.4_2</td><td>选项卡</td><td>“我”，“设置”，“关于”：分别对下方列表导航</td></tr><tr><td>NO.4_3</td><td>我</td><td>条目：<table><tr><td>姓名</td><tr/><tr><td>邮件</td><tr/><tr><td>电话</td><tr/><tr><td>地区</td><tr><td>登录/注销</td></table></td></tr>
+| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.4_1</td><td>封面 </td><td>点击事件：更换封面/取消</td></tr><tr><td>NO.4_2</td><td>选项卡</td><td>“我”，“设置”，“关于”：分别对下方列表导航</td></tr><tr><td>NO.4_3</td><td>我</td><td>条目：<table><tr><td>姓名</td><tr/><tr><td>邮件</td><tr/><tr><td>电话</td><tr/><tr><td>地区</td><tr><td>登录/注销</td></table>
 
 <br />
