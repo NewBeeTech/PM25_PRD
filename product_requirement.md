@@ -3,9 +3,19 @@
 ## 城市设置
 
 
-|功能需求 | |
+|功能需求 |  |
 | - | - |
 | 需求编号| NO.1|
+| 需求名称| 城市设置 |
+| 原型图 | <img src="Page1@2x.png" height=300 />  |
+| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.1_1</td><td>添加按钮</td><td>点击进入城市选择界面 </td></tr><tr><td> NO.1_2 </td><td>城市列表</td><td>展示所有用户选中的城市（城市名、pm2.5、空气质量指数类别）</td></tr></table> |
+
+<br />
+
+## 城市选择列表
+|功能需求 |  |
+| - | - |
+| 需求编号| NO.2|
 | 需求名称| 城市设置 |
 | 原型图 | <img src="Page1@2x.png" height=300 />  |
 | 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.1_1</td><td>添加按钮</td><td>点击进入城市选择界面 </td></tr><tr><td> NO.1_2 </td><td>城市列表</td><td>展示所有用户选中的城市（城市名、pm2.5、空气质量指数类别）</td></tr></table> |
@@ -16,9 +26,9 @@
 
 |功能需求 | |
 | - | - |
-| 需求编号| NO.2|
+| 需求编号| NO.3|
 | 需求名称| 主界面 |
 | 原型图 | <img src="Page3@2x.png" height=300 />  |
-| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.2_1</td><td>城市设置导航按钮</td><td>城市设置和主界面切换开关 </td></tr><tr><td>NO.2_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr><tr><td>NO.2_3</td><td>城市基本信息面板</td><td>城市名、AQI、空气质量指数类别</td></tr><tr><td>NO.2_4</td><td>城市环境信息详细图表</td><td>柱状统计图</td></tr></table> |
+| 界面元素| <table><tr><th>序号</th><th>组件名称</th><th>描述</th></tr><tr><td>NO.3_1</td><td>城市设置导航按钮</td><td>城市设置和主界面切换开关 </td></tr><tr><td>NO.3_2</td><td>app设置导航按钮</td><td>app设置和主界面切换开关</td></tr><tr><td>NO.3_3</td><td>城市基本信息面板</td><td>城市名、AQI、空气质量指数类别</td></tr><tr><td>NO.3_4</td><td>城市环境信息详细图表</td><td>柱状统计图</td></tr></table> |
 
 <br />
